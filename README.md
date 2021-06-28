@@ -1,3 +1,3 @@
 # Epi Dead Me
 
-[play online](./epideadme/epideadme.html)
+[play online](https://thinkbeforecoding.github.io/zombieland/)
